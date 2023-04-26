@@ -1,5 +1,5 @@
 import { Container } from '@mui/material'
-import ProdutoTable from './components/Produto';
+import ProdutoTable from './components/ProdutoTable';
 
 function App() {
 
